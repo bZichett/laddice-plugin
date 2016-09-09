@@ -1,0 +1,22 @@
+{
+  "name": "laddice-plugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bZichett/laddice-plugin.git"
+  },
+  "keywords": [
+    "laddice"
+  ],
+  "author": "Ben Zichettello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bZichett/laddice-plugin/issues"
+  },
+  "homepage": "https://github.com/bZichett/laddice-plugin#readme"
+}
